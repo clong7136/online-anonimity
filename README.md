@@ -6,7 +6,7 @@ Many people take their online privacy very seriously, concerned about who may be
 Research and briefly describe what the TOR network is and how it works. (2 marks)
 
 ```
-answer here
+The TOR Network isa browser that allows the client to anonamously browse the web without their identity being distinguished by the government. It can be used "to conceal a user's location or usage from anyone conducting network surveillance or traffic analysis."
 ```
 
 Discuss the risks and benefits of such a network. (6 marks)
@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-answer here
+The TOR network is used for both licit and illicit uses, but is often described as a method of exploring the 'dark' side of the internet, with common association with the trade of illegal material and items. For instance, TOR may be used to access cencored and banned material and information by its users. However, there are numerous benefits with using the TOR anonymity browser. These include
 ```
