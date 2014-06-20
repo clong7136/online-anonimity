@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-The TOR network is used for both licit and illicit uses, but is often described as a method of exploring the 'dark' side of the internet, with common association with the trade of illegal material and items. For instance, TOR may be used to access cencored and banned material and information by its users. However, there are numerous benefits with using the TOR anonymity browser. These include
+The TOR network is used for both licit and illicit uses, but is often described as a method of exploring the 'dark' side of the internet, with common association with the trade of illegal material and items. For instance, TOR may be used to access cencored and banned material and information by its users. However, there are numerous benefits with using the TOR anonymity browser. An example of this is being able to anomalously explore information that has been indexed and filtered by Google.
 ```
